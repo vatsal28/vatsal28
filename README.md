@@ -23,12 +23,12 @@ By day I work on AI models, data workflows, and monitoring systems that keep peo
 ## Building now
 
 ### [FakeOut](https://fakeout.io) · fact-checking in your pocket
-iOS and Android app that helps people check viral claims before sharing them. A daily feed of trending debunks from 100+ certified fact-checkers, with AI image/video scanning and claim checks one tab away. **16K+ downloads.**
+Android and iOS app that helps people check viral claims before sharing them. A daily feed of trending debunks from 100+ certified fact-checkers, with AI image/video scanning and claim checks one tab away. **16K+ downloads.**
 
 ### Agents that actually run my life
 Two self-hosted AI agents live on a mini PC in my house and talk to me over Telegram and Discord:
 
-- **Cloidberg** (OpenClaw) is my assistant and chief of staff: it manages projects, maintains my second brain, ingests grocery receipts into our household app, publishes its own blog, and sends me morning briefs.
+- **Cloidberg** (OpenClaw) is my assistant and chief of staff: it manages projects, maintains my second brain, helps manage my pantry, groceries and meal planning, publishes its own blog, and sends me morning briefs.
 - **Gilfoyle** (Hermes) is the SRE: it watches the home servers, sets things up, and repairs what breaks.
 
 They share a plain-Markdown memory system, coordinate through a file-based exchange, and keep working while I sleep.
