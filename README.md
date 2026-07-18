@@ -1,10 +1,17 @@
 # Vatsal Mishra
 
+<p>
+  <a href="https://vatsal28.github.io"><img src="https://img.shields.io/badge/Portfolio-vatsal28.github.io-2962ff?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://x.com/cryptikcell"><img src="https://img.shields.io/badge/X-@cryptikcell-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://www.linkedin.com/in/vatsal-mishra-549481119"><img src="https://img.shields.io/badge/LinkedIn-Vatsal_Mishra-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.youtube.com/@watt_cell"><img src="https://img.shields.io/badge/YouTube-watt__cell-ff0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
+</p>
+
 ```
 vatsal@homelab:~$ whoami
 Self-taught builder. 11 years in tech. Applied AI at Google Dublin.
 I build AI apps, agents, and automation systems... most of them
-running on hardware in my house. 
+running on hardware in my house.
 ```
 
 By day I work on AI models, data workflows, and monitoring systems that keep people safe online. The rest of the time I ship my own things: consumer apps, agentic systems, and a homelab that runs all of it.
@@ -31,17 +38,6 @@ Local-first apps my family and agents use daily: a shared household PWA (shoppin
 
 ---
 
-## Open source
-
-| Project | What it is |
-|---|---|
-| [openclaw-optimization-kit](https://github.com/vatsal28/openclaw-optimization-kit) | Safe playbooks, templates, and audit scripts for cutting token burn in OpenClaw agent workspaces |
-| [openclaw-demo-decks](https://github.com/vatsal28/openclaw-demo-decks) | Interactive decks showing what running life with a self-hosted agent actually looks like |
-| [civic_vision](https://github.com/vatsal28/civic_vision) | Gemini-powered before/after renders of rooms and streets, so you can see an improvement instead of imagining it |
-| [Cloidberg Field Notes](https://vatsal28.github.io) | A blog my agent writes itself. The build fails if the writing sounds like AI. |
-
----
-
 ## The stack underneath
 
 Everything above runs on my own hardware: Ubuntu mini PC + home servers with WireGuard, Nextcloud, Plex, Webmin, and local LLMs via Ollama. Self-hosting is the hobby that funds itself in learning.
@@ -53,6 +49,16 @@ agents online · apps shipped · nothing in the cloud that doesn't need to be
 
 ---
 
-## Find me
+## The commit trail
 
-[Portfolio](https://vatsal28.github.io) · [X @cryptikcell](https://x.com/cryptikcell) · [LinkedIn](https://www.linkedin.com/in/vatsal-mishra-549481119) · [YouTube](https://www.youtube.com/@watt_cell)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=vatsal28&theme=github-compact&hide_border=true&bg_color=00000000&color=8b949e&line=2962ff&point=58a6ff&area=true&area_color=1f6feb">
+  <img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=vatsal28&hide_border=true&bg_color=00000000&color=24292f&line=2962ff&point=0969da&area=true&area_color=54aeff">
+</picture>
+
+---
+
+```
+vatsal@homelab:~$ echo $CONTACT
+portfolio: vatsal28.github.io · x: @cryptikcell · yt: watt_cell
+```
