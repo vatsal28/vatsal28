@@ -51,10 +51,7 @@ agents online · apps shipped · nothing in the cloud that doesn't need to be
 
 ## The commit trail
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=vatsal28&theme=github-compact&hide_border=true&bg_color=00000000&color=8b949e&line=2962ff&point=58a6ff&area=true&area_color=1f6feb">
-  <img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=vatsal28&hide_border=true&bg_color=00000000&color=24292f&line=2962ff&point=0969da&area=true&area_color=54aeff">
-</picture>
+<img alt="Contribution graph" src="https://ghchart.rshah.org/vatsal28" width="100%">
 
 ---
 
