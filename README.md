@@ -4,7 +4,6 @@
   <a href="https://vatsal28.github.io"><img src="https://img.shields.io/badge/Portfolio-vatsal28.github.io-2962ff?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="https://x.com/cryptikcell"><img src="https://img.shields.io/badge/X-@cryptikcell-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
   <a href="https://www.linkedin.com/in/vatsal-mishra-549481119"><img src="https://img.shields.io/badge/LinkedIn-Vatsal_Mishra-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.youtube.com/@watt_cell"><img src="https://img.shields.io/badge/YouTube-watt__cell-ff0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
 </p>
 
 ```
