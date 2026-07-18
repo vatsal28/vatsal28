@@ -4,7 +4,7 @@
 vatsal@homelab:~$ whoami
 Self-taught builder. 11 years in tech. Applied AI at Google Dublin.
 I build AI apps, agents, and automation systems... most of them
-running on hardware in my house.
+running on hardware in my house. 
 ```
 
 By day I work on AI models, data workflows, and monitoring systems that keep people safe online. The rest of the time I ship my own things: consumer apps, agentic systems, and a homelab that runs all of it.
