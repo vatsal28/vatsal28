@@ -51,7 +51,10 @@ agents online · apps shipped · nothing in the cloud that doesn't need to be
 
 ## The commit trail
 
-<img alt="Contribution graph" src="https://ghchart.rshah.org/vatsal28" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vatsal28/vatsal28/main/assets/contribs-dark.svg">
+  <img alt="2026 contribution graph" src="https://raw.githubusercontent.com/vatsal28/vatsal28/main/assets/contribs.svg" width="100%">
+</picture>
 
 ---
 
