@@ -51,7 +51,11 @@ agents online · apps shipped · nothing in the cloud that doesn't need to be
 
 ## The commit trail
 
-<img alt="Contribution graph" src="https://ghchart.rshah.org/vatsal28" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vatsal28/vatsal28/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vatsal28/vatsal28/output/github-snake.svg">
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/vatsal28/vatsal28/output/github-snake.svg" width="100%">
+</picture>
 
 ---
 
